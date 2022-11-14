@@ -1,6 +1,3 @@
-# Renewables.ninja Solar PV (Point API) - 11.435, -72.900 - Version: 1.1 (using GSEE v0.3.1) - License: https://creativecommons.org/licenses/by-nc/4.0/ - Reference: https://doi.org/10.1016/j.energy.2016.08.060
-# Units: time in UTC, local_time in America/Bogota, electricity in kW, irradiance_direct in kW/m², irradiance_diffuse in kW/m², temperature in ºC
-# {"units": {"time": "UTC", "local_time": "America/Bogota", "electricity": "kW", "irradiance_direct": "kW/m\u00b2", "irradiance_diffuse": "kW/m\u00b2", "temperature": "\u00baC"}, "params": {"local_time": true, "header": true, "lat": "11.4354118", "lon": "-72.9002161", "date_from": "2019-01-01", "date_to": "2019-12-31", "dataset": "merra2", "capacity": "1", "system_loss": "0.1", "tracking": "0", "tilt": "35", "azim": "180", "raw": true}}
 time,local_time,electricity,irradiance_direct,irradiance_diffuse,temperature
 2019-01-01 00:00,2018-12-31 19:00,0,0,0,24.990
 2019-01-01 01:00,2018-12-31 20:00,0,0,0,24.397
